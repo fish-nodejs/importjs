@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^11.9.3"
+  },
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
